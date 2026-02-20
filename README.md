@@ -1,3 +1,9 @@
+> **📌 Nota:** Este é um projeto histórico de 2021, desenvolvido para um processo seletivo quando eu estava começando na programação. Ele representa um marco importante na minha jornada de desenvolvimento.
+> 
+> **🚀 Versão Moderna:** Estou desenvolvendo uma versão atualizada e profissional deste projeto com tecnologias modernas. Confira em: [workspace-booking-system](https://github.com/edlucaz/workspace-booking-system)
+
+---
+
 # Landing-Page---Fcamara
   Esse projeto foi realizado para um processo seletivo do Grupo Fcamara para iniciantes no mundo da programação, sendo propositalmente feito após a Imersão Dev da Alura, evento no qual consiste em 10 aulas ao longo de 2 semanas para as pessoas aprenderem na prática como programar. 
   O processo seletivo consiste em um desafio com a seguinte problemática:
